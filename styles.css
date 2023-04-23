@@ -1,0 +1,38 @@
+body.homepage {
+    background-color: hsl(341, 74%, 53%);
+    font-family: 'Courier New', Courier, monospace;
+}
+body.chocolate-cake {
+    background-color: hsl(0, 24%, 40%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+body.cheesecake {
+    background-color: hsl(42, 36%, 79%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body.lemon-tart {
+    background-color: hsl(49, 100%, 51%);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#title {
+    color: hsl(117, 97%, 40%);
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: line-through underline overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.chocolate-cake img,
+.cheesecake img,
+.lemon-tart img {
+    height: 600px; 
+    width: auto; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 50%;
+}
+img.image_link {
+    width: 30%;
+    height: auto;
+}
